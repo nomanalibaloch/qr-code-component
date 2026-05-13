@@ -30,7 +30,7 @@ The purpose of this project was to practice building responsive card layouts usi
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://nomanalibaloch.github.io/qr-code-component/
 
 ---
 
